@@ -1,1 +1,1 @@
-# Coding-Challenge-3-BIOL343
+# BIOL343_CC3
